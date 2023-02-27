@@ -30,10 +30,11 @@ Despite these challenges, Robinhood has continued to grow and expand its offerin
 
 ---
 ## Recommendations
-If I were to advise Robinhood, I would suggest expanding their offerings to include more educational resources and tools for beginner investors. This could include online courses, tutorials, and other resources that would help users learn more about investing and personal finance.
+If I were to advise Robinhood, I would suggest to keep pursuing their 24/7 trading plan. 
+* "Robinhood was built to revolutionize the markets and bring more people into our financial system. That’s why Robinhood is working towards offering 24/7 investing giving customers unprecedented access to the financial markets."  [Robinhood.com](https://blog.robinhood.com/news/2022/3/28/the-future-of-investing-is-247) 
 
-Adding these features would benefit the company by attracting more users who are new to investing and looking for a platform that offers more support and guidance. These features could be powered by technologies like machine learning and natural language
-
+Adding these features would benefit the company by attracting more users who are looking to invest anytime and anywhere. The company has already extended trading hours from 7 a.m to 8 p.m which helps many customers that find themselvs to busy during normal trading hours. 
+### In the future I belive that Robinhood will open up the market to true 24/7 comission free trading, giving even more opportunities to even more people. 
 
 ## Sources 
 ---
